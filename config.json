@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "NumPad": 1,
+            "sceneSelect": "Live Scene"
+        },
+        {
+            "NumPad": 2,
+            "sceneSelect": "Game"
+        },
+        {
+            "NumPad": 3,
+            "sceneSelect": "BrowserView"
+        },
+        {
+            "NumPad": 4,
+            "sceneSelect": "TabletScene"
+        },
+		{
+            "NumPad": 5,
+            "sceneSelect": "BrowserView"
+        },
+		{
+            "NumPad": 6,
+            "sceneSelect": "BrowserView"
+        },
+		{
+            "NumPad": 7,
+            "sceneSelect": "BrowserView"
+        },
+		{
+            "NumPad": 8,
+            "sceneSelect": "BrowserView"
+        },
+		{
+            "NumPad": 9,
+            "sceneSelect": "BrowserView"
+        }
+    ]
+}
